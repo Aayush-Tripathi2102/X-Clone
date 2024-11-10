@@ -23,5 +23,5 @@ This is a clone of the popular X (formerly known as Twitter) website, built usin
 2. Navigate to the project folder:
    ```bash
    cd x-clone
-3. Open the `index.html` file in your browser to see the clone in action.
+3. Open the `index.html` file present inside home directory in your browser to see the clone in action.
 
